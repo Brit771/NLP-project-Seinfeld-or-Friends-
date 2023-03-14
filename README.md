@@ -7,9 +7,9 @@ my goal is to create a deep learning model that could identify whether a line wa
 
 More info down below.
 
-* [Data]()
-* [The model]()
-* [Results]()
+* [Data](https://github.com/Brit771/NLP-project-Seinfeld-or-Friends-/edit/main/README.md#data)
+* [The model](https://github.com/Brit771/NLP-project-Seinfeld-or-Friends-/edit/main/README.md#the-model)
+* [Results](https://github.com/Brit771/NLP-project-Seinfeld-or-Friends-/edit/main/README.md#results)
 
 ## Data
 The dataset contains total of 70405 scripts of Seinfeld and friends episodes.
@@ -32,7 +32,7 @@ In the FC layers I used the Relu activation function and in the last layer I use
 
 | subject  | description |
 | ------------- | ------------- |
-| epochs number| 5 | 
+| number of epochs | 5 | 
 | batch size |64 | 
 | Optimizer | adam | 
 | evaluation metric | Accuracy | 
